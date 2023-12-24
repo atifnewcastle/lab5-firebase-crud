@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513704994607",
+    "project_id": "lab4-firebaseartist",
+    "storage_bucket": "lab4-firebaseartist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513704994607:android:f67f010eec98b83c9723da",
+        "android_client_info": {
+          "package_name": "com.example.lab4_firebaseartist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIVMSlYznuuUqwD4ODGeFNvDtZmHlyudU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

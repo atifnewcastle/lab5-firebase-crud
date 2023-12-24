@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="genres">
+        <item>Drama</item>
+        <item>Action</item>
+        <item>Comedy</item>
+        <item>Romance</item>
+        <!-- Add more items as needed -->
+    </array>
+</resources>
